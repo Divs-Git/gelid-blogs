@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Understanding Vue.js Lifecycle Hooks",
+      "body": "Vue.js lifecycle hooks are a set of methods that allow you to hook into different stages of a component's life cycle...",
+      "tags": ["Vue.js", "Frontend", "JavaScript"]
+    },
+    {
+      "id": 2,
+      "title": "Mastering CSS Grid Layout",
+      "body": "CSS Grid Layout is a powerful tool for creating two-dimensional layouts on the web. In this blog, we'll explore its core concepts...",
+      "tags": ["CSS", "Frontend", "Design"]
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Async/Await Explained",
+      "body": "Async/await simplifies writing asynchronous code in JavaScript. It makes promises easier to work with and enhances readability...",
+      "tags": ["JavaScript", "Async", "Coding"]
+    },
+    {
+      "id": 4,
+      "title": "10 Tips for Writing Clean Code",
+      "body": "Clean code is not just about readability, but also about maintainability. Here are ten tips to help you write cleaner code...",
+      "tags": ["Coding", "Best Practices", "Software Engineering"]
+    },
+    {
+      "id": 5,
+      "title": "A Beginner's Guide to TypeScript",
+      "body": "TypeScript is a superset of JavaScript that adds static typing. It helps you catch errors early and write better code...",
+      "tags": ["TypeScript", "JavaScript", "Frontend"]
+    },
+    {
+      "id": 6,
+      "title": "Optimizing Web Performance",
+      "body": "Web performance is crucial for user experience. Learn how to optimize your web app for speed and responsiveness...",
+      "tags": ["Web Performance", "Frontend", "Optimization"]
+    },
+    {
+      "id": 7,
+      "title": "Getting Started with React",
+      "body": "React is a popular JavaScript library for building user interfaces. This blog covers its basics and how to get started...",
+      "tags": ["React", "Frontend", "JavaScript"]
+    },
+    {
+      "id": 8,
+      "title": "Demystifying RESTful APIs",
+      "body": "RESTful APIs are essential in web development. Learn what they are, how they work, and how to consume them in your applications...",
+      "tags": ["API", "REST", "Web Development"]
+    }
+  ]
+}
